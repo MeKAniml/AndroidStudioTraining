@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="popup_title">Question?</string>
+    <string name="popup_message">voulez vous quittez</string>
+    <string name="popup_btn_oui">oui</string>
+
 </resources>

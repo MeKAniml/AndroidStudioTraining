@@ -24,13 +24,13 @@
             android:layout_width="match_parent"
             android:layout_height="200dp"
             android:scaleType="centerCrop"
-            android:src="@drawable/montcuq"/>
+            android:src="@drawable/topolo"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom|right"
-            android:text="Vive Montcuq"
+            android:text="Vive topologie"
             android:textColor="@color/pink"
             android:textSize="15sp"
             android:layout_marginRight="5dp"
@@ -67,6 +67,14 @@
         android:layout_height="wrap_content"
         android:text="3"
         android:layout_marginHorizontal="3dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:id="@+id/editText"
+        android:hint="ECRIRE ICI SALE BG"
+        />
 
 
 </LinearLayout>

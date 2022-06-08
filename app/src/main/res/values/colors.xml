@@ -9,5 +9,14 @@
     <color name="white">#FFFFFFFF</color>
     <color name="pink">#D57AB0</color>
     <color name="grey">#FF9E9E9E</color>
+    <color name="blue">#FF2196F3</color>
+    <color name="green">#FF4CAF50</color>
+    <color name="orange">#FFF57C00</color>
+    <color name="red">#FFF44336</color>
+    <color name="yellow">#FFFFC107</color>
+    <color name="dark_grey">#FF616161</color>
+    <color name="dark_blue">#FF1976D2</color>
+    <color name="dark_green">#FF388E3C</color>
+
 
 </resources>
